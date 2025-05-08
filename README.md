@@ -1,8 +1,5 @@
 # QuantumMachineLearning
 
-﻿||||
-| :- | :-: | -: |
-
 # **Gateway to Quantum AI: Industrialization of Quantum AI**
 
 
