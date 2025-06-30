@@ -1,8 +1,5 @@
 # Quantum Machine Learning (QiML Industrialization)
 
-# **Gateway to Quantum AI - QiML Industrialization**
-
-
 ### Industrialization of Quantum AI
 
 This repository is designed to help you explore, understand, and apply the principles of Quantum Machine Learning (Quantum ML). It provides a hands-on path into how the convergence of quantum computing and artificial intelligence is driving a new wave of innovation across industries such as finance, healthcare, logistics, defense, and manufacturing.
