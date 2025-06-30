@@ -1,6 +1,6 @@
-# QuantumMachineLearning
+# QuantumMachineLearning (QiML Industrialization)
 
-# **Gateway to Quantum AI: Industrialization of Quantum AI**
+# **Gateway to Quantum AI (QiML Industrialization)**
 
 
 ### Industrialization of Quantum AI
