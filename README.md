@@ -312,13 +312,12 @@ This project applies a QCNN to detect pneumonia from chest X-ray images, using a
 
 
 
-## Contact Info
+# Contact info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-My contact info can be found on my GitHub page.
+My contact info can be found on my [GitHub page](https://github.com/DeepHiveMind).
 
+# License
 
-
-## License
- The  resources in this repository to you under custom Copyright & license (Copyright 2019 Universal). Thanks!
+I, *The DeepHiveMind*, am providing code and resources in this repository to you under custom Copyright & license (Copyright 2019 DeepHiveMind & Creative Commons Legal Code CC0 1.0 Universal). Please Refer to the [Copyright 2019 DeepHiveMind License](https://github.com/DeepHiveMind/QuantumMachineLearning_QiML/blob/main/LICENSE) for further details as to this. Thanks!
