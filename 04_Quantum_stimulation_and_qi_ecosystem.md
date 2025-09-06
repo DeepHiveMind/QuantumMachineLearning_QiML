@@ -1,7 +1,7 @@
-## **Chapter 5: Quantum Simulation**
+## Quantum Simulation
 ![Image Description](images\quantum_simulator.jpg)
 
-                                  "Diagram depicting the process of simplifying a quantum system for simulation."
+       "Diagram depicting the process of simplifying a quantum system for simulation."
 ### **Why Quantum Computers Are Ideal for Simulation**  
 
 

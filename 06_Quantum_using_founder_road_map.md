@@ -1,4 +1,4 @@
-## Chapter 9: Who is Using Quantum AI?
+##  Who is Using Quantum AI?
 
 
 ## Technology Companies 
@@ -281,7 +281,7 @@ Quantum satellite comms—like Micius’s 2016 launch—is CAS’s cosmic courie
 Fundamental Quantum Physics Research
 
 Fundamental quantum physics research—like CAS’s entanglement labs—is the theory thresher, a qubit dive into superposition or interference that’s fueling hardware or algos, a road that’s less about apps and more about axioms, a CAS thrust that’s quantum’s physics pioneer. It’s a qubit quest for nature’s nuts, a quantum edge that’s building the field’s bones. This isn’t a study; it’s a stake, a research root that’s CAS’s quantum bedrock.
-## Chapter 10: Founders & Pioneers of Quantum AI
+## Founders & Pioneers of Quantum AI
 
 ![](images\richard_feynman.jpeg)
 
