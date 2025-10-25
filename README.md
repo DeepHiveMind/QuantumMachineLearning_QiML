@@ -3,7 +3,7 @@
 
 
 
-### Welcome Onboard to the Wonderland of Industrialization of Quantum AI!
+### Welcome Onboard to the Wonderland of Quantum AI Industrialization!
 
 
 
