@@ -41,7 +41,7 @@ Quantum AI caters to a diverse range of user personas, each benefiting from its 
 - **Data Scientists and AI Practitioners**: Enhance machine learning models with quantum algorithms to achieve higher accuracy and efficiency in predictive analytics and optimization tasks.
 - **Policy Makers and Regulators**: Understand the ethical and regulatory implications of Quantum AI to develop frameworks that ensure responsible adoption and equitable access.
 
-## 🧠 Quantum AI  
+## 🧠 Overview of Repo per Personas
 
 This repository organizes its content into sections tailored for different audiences—beginners 👶, intermediate learners 📘, experts 🧑‍🔬, and those seeking a broad overview 🌍. Each section below links to detailed explorations of Quantum AI concepts, tools, and applications, designed to guide you through the industrialization 🏭 of Quantum AI.
 
